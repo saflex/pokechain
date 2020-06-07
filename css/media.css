@@ -1,0 +1,1089 @@
+@media screen and (min-width: 1200px) { 
+.top-merchant-area strong, .top-merchant-area p {
+    max-width: 368px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.merchant-page .content-page-success {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-top: 20%;
+}
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 1199px) { 
+.number {
+    font-size: 42px;
+    font-family: "MyriadProBold";
+    color: #3496af;
+    float: left;
+    margin-top: -10px;
+    margin-left: 1px;
+    height: 55px;
+}
+
+.top-merchant-area strong, .top-merchant-area p {
+    max-width: 268px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.buisness-panel ul.nav.nav-tabs li a {
+    color: #898989;
+    font-size: 13px;
+    margin-left: -14px;
+    margin-right: -14px;
+}
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) { 
+.main-area-1, .main-area-2, .main-area-3 {
+    padding: 12px;
+    float: left;
+}
+
+.panel-right-buttons {
+    width: 100%;
+}
+
+.panel-right-buttons .button-g, .panel-right-buttons .button-n {
+    float: left;
+    margin: 0 !important;
+}
+
+.panel-right-buttons .button-g{
+	    margin-right: 10px !important;
+}
+.panel-right-buttons {
+    margin-top: 6px;
+}
+
+}
+
+
+@media screen and (max-width: 767px) { 
+.content-area{
+	border-radius: 0;
+	margin-top: 0;
+	min-height: auto !important;
+}
+
+
+.header-cabinet h1 {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+a.navbar-brand {
+    margin-top: 14px;
+    margin-left: 15px;
+}
+
+html, body, .wrapper{
+	height: auto !important;
+}
+
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 90px;
+    background: #fff;
+}
+
+html, body{
+	background: #fff;
+}
+
+.title-main {
+    background: none;
+}
+
+.bottom-menu-area ul li {
+    margin-right: 20px;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: #2d88ae;
+}
+
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+    background-color: inherit;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{
+border-color: #AFD3E0;
+}
+
+
+body .navbar-fixed-top .user {
+    width: 26px;
+    height: 28px;
+    background: url(../img/user.png) 0 0 no-repeat;
+    margin-top: 16px;
+    margin-left: 20px;
+    background-size: cover;
+    display: block;
+    padding: 0;
+    position: absolute;
+    top: -57px;
+    right: 0px;
+}
+
+.navbar-nav {
+    float: left;
+    margin: 0;
+    width: 100%;
+}
+
+:focus{
+	outline: none !important;
+}
+
+div#responsive-menu {
+    width: 110%;
+    float: left;
+    text-align: left;
+    padding: 0;
+    padding-right: 0px;
+}
+
+ul.slick-dots{
+	display: none !important;
+}
+
+.navbar hr {
+    margin-top: 1px;
+    margin-bottom: 2px;
+    border: 0;
+    border-top: 1px solid #AFD3E0;
+}
+
+.number-block{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	float: none;
+	text-align: center;
+	display: block; 
+	font-size: 0; 
+}
+
+button.slick-prev.slick-arrow {
+    position: absolute;
+    left: -1px;
+    top: 50%;
+    font-size: 0;
+    width: 40px;
+    height: 40px;
+    background-size: contain;
+    border: 0;
+    margin-top: -10px;
+    border-radius: 50px;
+    z-index: 9;
+    background: none;
+    border: 0;
+}
+
+button.slick-prev.slick-arrow:before {
+    position: absolute;
+    font-size: 33px;
+    font-family: FontAwesome;
+    content: "\f0d9";
+    margin-top: -22px;
+    margin-left: -2px;
+    color: #2ACDA7;
+}
+
+button.slick-next.slick-arrow:before {
+    position: absolute;
+    font-size: 33px;
+    font-family: FontAwesome;
+    content: "\f0da";
+    margin-top: -22px;
+    margin-left: -8px;
+    color: #2ACDA7;
+}
+
+button.slick-next.slick-arrow {
+    position: absolute;
+    right: 2px;
+    top: 50%;
+    font-size: 0;
+    width: 40px;
+    height: 40px;
+    background-size: contain;
+    border: 0;
+    margin-top: -10px;
+    border-radius: 50px;
+    z-index: 9;
+    background: none;
+    border: 0;
+}
+
+.main-panel {
+    background: #e0eef2;
+    border-radius: 0;
+    overflow: hidden;
+    padding-bottom: 28px;
+}
+
+.mobile-area-css .nav-pills > li.active > a, .mobile-area-css .nav-pills > li.active > a:hover, .mobile-area-css .nav-pills > li.active > a:focus{
+	border-radius: 0;
+}
+
+.mobile-area-css .nav-pills > li {
+    width: 33.3% !important;
+    margin: 0 !important;
+}
+
+.main-panel{
+	padding-bottom: 0 !important;
+}
+
+.main-panel .slider {
+    margin-bottom: 25px;
+}
+
+.mobile-area-css .tab-content.clearfix{
+	background: #fff !important;
+}
+
+.poketball:before {
+    margin-left: -15px;
+}
+
+.energy:before {
+    margin-left: -15px;
+}
+
+.pokemon:before {
+    margin-left: -12px;
+}
+
+.number {
+    padding: 10px;
+    margin: 0 20px;
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+    margin-top: -26px;
+}
+
+.icon-panel {
+    padding: 10px;
+    margin: 0 20px;
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+    margin-top: 50px;
+}
+
+.panel-right-buttons {
+    float: none;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.panel-right-buttons .button-g {
+    float: left;
+    margin: 0 !important;
+    width: 140px;
+    height: 30px;
+    border-radius: 20px;
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: normal;
+}
+
+.panel-right-buttons .button-n {
+    float: right;
+        margin: 0 !important;
+    width: 140px;
+    height: 30px;
+    border-radius: 20px;
+     font-size: 15px;
+    line-height: 30px;
+    font-weight: normal;
+}
+
+.mobile-energy-script2 h2 {
+    margin-bottom: 25px;
+}
+
+.mobile-energy-script2 .form-merchant input {
+    width: 100%;
+    z-index: 99;
+    text-align: left;
+    padding-left: 20px;
+    margin-bottom: 24px;
+}
+
+.mobile-energy-script2 button {
+    z-index: 99;
+    margin: 0 auto;
+    float: none;
+    display: block;
+    margin-top: 24px !important;
+    clear: both;
+    width: 159px !important;
+    font-size: 16px !important;
+}
+
+
+.mobile-energy-script-poket2 h2 {
+    margin-bottom: 25px;
+}
+
+.mobile-energy-script-poket2 .form-merchant input {
+    width: 100%;
+    z-index: 99;
+    text-align: left;
+    padding-left: 20px;
+    margin-bottom: 24px;
+}
+
+.mobile-energy-script2{
+	display: none;
+}
+
+.mobile-energy-script-poket2 button {
+    z-index: 99;
+    margin: 0 auto;
+    float: none;
+    display: block;
+    margin-top: 24px !important;
+    clear: both;
+    width: 159px !important;
+    font-size: 16px !important;
+}
+
+.mobile-energy-script h6{
+	color: #848484;
+}
+
+.mobile-energy-script-poket, .mobile-energy-script-poket2{
+	display: none;
+}
+
+.form-tab .row {
+    margin: 0;
+}
+
+.buisness-panel ul.nav.nav-tabs li a {
+    color: #898989;
+    font-size: 13px;
+    margin-left: -14px;
+    margin-right: -14px;
+    margin-top: -10px;
+}
+
+.buisness-panel ul.nav.nav-tabs {
+    padding-top: 10px;
+}
+
+.form-area-buttons button.btn.btn-primary {
+    clear: both;
+    float: none !important;
+    height: 45px;
+    font-size: 16px;
+}
+
+.form-area-buttons {
+    width: 280px;
+    margin: 0 auto;
+    margin-top: 0px !important;
+}
+
+}
+
+
+
+
+@media screen and  (min-width: 768px) { 
+.form-area-tag.form-area-buttons.btn-add-shop {
+    clear: both;
+    float: left;
+    width: 100% !important;
+}
+
+.form-area-tag.form-area-buttons.btn-add-shop button{
+    width: 100% !important;
+}
+}
+
+
+
+@media screen and  (max-width: 991px) { 
+.filtr-right {
+    margin-top: 10px;
+}
+
+.filtr-right{
+    display: none;
+}
+
+
+}
+
+
+
+@media screen and  (max-width: 767px) { 
+.filtr-left span {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.top-merchant-area .col-md-3.col-sm-3.col-xs-4 img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.top-merchant-area strong, .top-merchant-area p {
+    word-wrap: break-word;
+}
+
+.top-merchant-area .btn{
+    float: left;
+}
+
+.form-merchant input {
+    font-size: 17px;
+    width: 61%;
+}
+
+.filtr-left input{
+    margin-left: 0;
+}
+
+.filtr-left input {
+    margin-left: 0;
+    width: 178px;
+}
+
+.filtr-area{
+    padding-bottom: 24px;
+}
+
+
+
+.form-merchant button {
+    width: 38%;
+    font-size: 14px;
+}
+
+.modal-title {
+    font-size: 25px;
+}
+
+.modal-body .form-merchant button{
+width: 41%;
+}
+
+.modal-body .form-merchant input{
+    width: 55%;
+}
+
+.notification-success strong {
+    font-size: 19px;
+}
+
+.modal-header .close {
+    margin-top: -48px;
+    right: -11px;
+    opacity: 1 !important;
+}
+
+}
+
+
+@media screen and  (min-width: 768px) { 
+.content-page-code li:first-child a {
+    border-radius: 20px 0 0 20px;
+    padding-left: 40px;
+    padding-right: 25px;
+}
+.content-page-code li:last-child a {
+    border-radius: 0 20px 20px 0;
+     padding-right: 40px;
+    padding-left: 25px;
+}
+}
+
+
+@media screen and (min-width: 768px) { 
+.middle-modal{
+    width: 735px;
+}
+}
+
+
+@media screen and (min-width: 1200px) { 
+.big-modal{
+    width: 1060px;
+}
+}
+
+@media screen and (max-width: 767px) { 
+.modal-dialog {
+    margin-top: 23px !important;
+}
+
+
+a.navbar-brand {
+    position: absolute;
+    left: 50%;
+    margin-left: -52px;
+}
+
+button.navbar-toggle {
+    float: left;
+    margin-left: 1px;
+}
+.title-main h1 {
+    text-align: center;
+}
+
+.form-merchant-main p {
+    margin-bottom: 26px;
+}
+
+.status-yes, .status-no, .status-treatment{
+	font-size: 0;
+}
+
+.status-yes:before {
+    content: '';
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    background: #99dc96;
+    border-radius: 50px;
+    margin-top: 4px;
+}
+
+.status-no:before {
+    content: '';
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    background: #f8566d;
+    border-radius: 50px;
+    margin-top: 4px;
+}
+
+.status-treatment:before {
+    content: '';
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    background: #f6c380;
+    border-radius: 50px;
+    margin-top: 4px;
+}
+
+.transaction-tab th:nth-child(2){
+	min-width: 150px;
+}
+
+.refill, .conclusion{
+	font-size: 0;
+}
+
+.refill:before{
+	  content: "\f062";
+    font-family: FontAwesome;
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    background: #F8566D;
+    border-radius: 50px;
+    margin-top: 4px;
+    font-size: 9px;
+    color: #FFF;
+    text-align: center;
+    padding-top: 1px;
+}
+
+.conclusion:before {
+    content: "\f063";
+    font-family: FontAwesome;
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    background: #3cb68b;
+    border-radius: 50px;
+    margin-top: 4px;
+    font-size: 9px;
+    color: #FFF;
+    text-align: center;
+    padding-top: 1px;
+}
+
+.bottom-menu-area.hidden-xs {
+    display: block !important;
+    margin-bottom: 0;
+    padding-top: 0;
+    background: none !important;
+}
+
+.bottom-menu-area ul{
+	   padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+    display: block !important;
+    font-size: 0;
+    float: none !important;
+}
+
+
+.bottom-menu-area ul li {
+    padding: 0px;
+    margin: 0 0px;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 16px;
+    float: none !important;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.admin-menu{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#2278a1+0,1b77a3+9,2388a2+100 */
+background: #2278a1; /* Old browsers */
+background: -moz-linear-gradient(top, #2278a1 0%, #1b77a3 9%, #2388a2 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #2278a1 0%,#1b77a3 9%,#2388a2 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #2278a1 0%,#1b77a3 9%,#2388a2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2278a1', endColorstr='#2388a2',GradientType=0 ); /* IE6-9 */
+}
+
+.bottom-menu-area li a{
+	padding: 7px 10px;
+    border-radius: 20px;
+}
+
+
+.bottom-menu-area li a.active {
+    color: #fff;
+    background: #1d7b9c;
+}
+
+
+.mobile-area-css .nav-pills > li.active > a, .mobile-area-css .nav-pills > li.active > a:hover, .mobile-area-css .nav-pills > li.active > a:focus {
+    color: #3A96AE;
+    background-color: #fff;
+    opacity: 1 !important;
+}
+
+.mobile-area-css .nav > li > a {
+    height: 67px;
+    border: 1px solid #b4d9e0;
+    border-top: 0;
+    border-radius: 0;
+    margin-left: -1px;
+}
+
+.mobile-area-css .nav > li:last-child > a{
+	 border-right: 0px solid #b4d9e0;
+}
+
+
+.mobile-area-css .nav > li > a{
+	background: #E0EFF2 !important;
+}
+.mobile-area-css .nav > li.active > a{
+	    border-left: 1px solid #b4d9e0 !important;
+	    border-right: 1px solid #fff !important;
+	    border-bottom: 0 !important;
+	    background: #f0f7f9 !important;
+}
+
+
+.single-item-mobile img{
+	width: 35px;
+	display: block;
+	clear: both;
+	margin: 0 auto;
+}
+
+.single-item-mobile p{
+	color: #323634;
+	font-size: 12px;
+	text-align: center;
+	overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.single-item-mobile button.slick-prev.slick-arrow:before, .single-item-mobile button.slick-next.slick-arrow:before{
+	font-size: 28px;
+}
+
+
+.single-item-mobile button.slick-prev.slick-arrow {
+    margin-left: -7px;
+    margin-top: -29px;
+}
+
+.single-item-mobile button.slick-next.slick-arrow {
+    margin-right: -10px;
+    margin-top: -29px;
+}
+
+
+.main-panel .slider{
+	margin-top: 10px;
+}
+
+.main-panel .slider {
+    margin-bottom: -21px;
+}
+
+.single-item-mobile2{
+	
+}
+
+.poket{
+	height: 600px;
+	background: #000;
+}
+
+.slider .pokemon-modal-area ul li {
+    padding: 0px;
+    margin: 0 0px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 16px;
+    float: none;
+    width: 112px;
+    margin-bottom: 30px;
+}
+
+.slider .pokemon-modal-area ul li img {
+    display: block;
+    margin: 0 auto;
+    max-width: 82px;
+}
+
+.slider .pokemon-modal-area ul li p {
+    text-align: center;
+    font-size: 13px;
+    padding: 0 8px;
+}
+
+.slider .pokemon-modal-area ul li{
+	margin-bottom: 20px;
+}
+
+
+.tab-content .main-content {
+    background: #fff;
+}
+
+.tab-content .pokemon-modal-area {
+    margin-top: 14px;
+}
+
+.tab-content .main-content{
+	min-height: 450px !important;
+}
+
+.tab-content .pokemon-modal-area ul{
+	max-width: 400px;
+	margin: 0 auto;
+}
+
+.mobile-area-css .en1 {
+    font-size: 28px;
+    font-family: "MyriadProBold";
+    color: #3496af;
+    text-align: center;
+    margin-top: -3px;
+     padding-left: 16px;
+}
+
+.mobile-area-css .en1:before {
+    content: '';
+    position: absolute;
+    background: url(../img/p1.png) 0 0 no-repeat;
+    width: 33px;
+    height: 24px;
+    background-size: contain;
+    margin-top: 7px;
+    margin-left: -24px;
+}
+
+.mobile-area-css .en1 + span {
+    display: block;
+    text-align: center;
+    margin-top: -21px;
+    font-size: 14px;
+    color: #3496AF;
+}
+
+
+.mobile-area-css .en2 {
+    font-size: 28px;
+    font-family: "MyriadProBold";
+    color: #3496af;
+    text-align: center;
+    margin-top: -3px;
+     padding-left: 26px;
+}
+
+body .mobile-area-css .nav > li:last-child > a{
+	border-right: 0 !important;
+}
+
+.single-item-mobile2 button.slick-next.slick-arrow {
+    right: -8px;
+    }
+    
+    .single-item-mobile2 button.slick-prev.slick-arrow{
+	 left: -10px !important;   
+    }
+    
+    .single-item-mobile2 button.slick-next.slick-arrow:before{
+	    font-size: 33px !important;
+	    color: #3496af;
+    }
+    
+     .single-item-mobile2 button.slick-prev.slick-arrow:before{
+	    font-size: 33px !important;
+	    color: #3496af;
+    }
+    
+   
+    
+.mobile-area-css .en2:before {
+    content: '';
+    position: absolute;
+    background: url(../img/p2.png) 0 0 no-repeat;
+    width: 21px;
+    height: 24px;
+    background-size: contain;
+    margin-top: 7px;
+    margin-left: -27px;
+}
+
+.mobile-area-css .en2 + span {
+    display: block;
+    text-align: center;
+    margin-top: -21px;
+    font-size: 14px;
+    color: #3496AF;
+}
+
+
+.mobile-area-css .en3 {
+    font-size: 28px;
+    font-family: "MyriadProBold";
+    color: #3496af;
+    text-align: center;
+    margin-top: -3px;
+    padding-left: 16px;
+}
+
+.mobile-area-css .en3:before {
+    content: '';
+    position: absolute;
+    background: url(../img/p3.png) 0 0 no-repeat;
+    width: 33px;
+    height: 21px;
+    background-size: contain;
+    margin-top: 7px;
+    margin-left: -22px;
+}
+
+.mobile-area-css .en3 + span {
+    display: block;
+    text-align: center;
+    margin-top: -21px;
+    font-size: 14px;
+    color: #3496AF;
+}
+
+.mobile-area-css.no-active-menu .nav > li > a{
+	background: #e0eff1 !important;
+}
+
+.mobile-area-css.no-active-menu .nav > li.active > a{
+	border-bottom: 1px solid #b4d9e0 !important;
+}
+
+.mobile-area-css.no-active-menu .nav > li:last-child > a{
+	border-right: 0px solid #b4d9e0 !important;
+}
+
+
+.mobile-buttons-area {
+    background: #F0F7F9;
+    overflow: hidden;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+}
+
+
+
+@media screen and (max-width: 540px) { 
+.merchant-page .container {
+    padding: 0;
+}
+
+.top-merchant-area {
+    padding: 15px;
+    padding-top: 24px;
+}
+
+.top-merchant-area .col-xs-4 {
+    width: 44%;
+}
+
+.top-merchant-area .col-xs-8 {
+    width: 56%;
+}
+
+.top-merchant-area .btn {
+    float: none;
+    display: block;
+    margin: 7px auto;
+}
+
+.merchant-padding table thead tr th, .merchant-padding table tbody tr td {
+    padding: 12px 15px;
+}
+
+.top-merchant-area {
+    margin-top: 15px;
+}
+
+
+.content-page-code ul li a {
+    font-size: 12px;
+    height: 41px;
+    padding: 0px;
+    text-align: left;
+    padding-left: 27px;
+    line-height: 15px;
+    padding-top: 4px;
+    padding-right: 27px;
+}
+
+.xs-br{
+	display: block;
+}
+
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #AFD3E0;
+    width: 25px;
+    height: 3px;
+}
+
+
+.col-md-12.col-sm-12.col-xs-12 .form-area-buttons{
+	margin-top: 25px !important;
+	width: 100%;
+}
+
+.col-md-12.col-sm-12.col-xs-12 .form-area-buttons .col-md-12.col-sm-12.col-xs-12{
+	padding: 0;
+}
+
+.col-md-12.col-sm-12.col-xs-12 .form-area-buttons .col-md-12.col-sm-12.col-xs-12 button:first-child {
+    width: 62%;
+    float: left !important;
+    clear: none !important;
+}
+.col-md-12.col-sm-12.col-xs-12 .form-area-buttons .col-md-12.col-sm-12.col-xs-12 button:last-child {
+    width: 36%;
+    float: right !important;
+    clear: none !important;
+}
+
+a.settings {
+    color: #3496af;
+    padding-left: 20px;
+    font-size: 0;
+}
+
+table.table.sites-tab th, table.table.sites-tab td {
+    padding-left: 14px;
+    border: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.table > thead > tr > th{
+	font-size: 14px !important;
+}
+
+a.settings {
+    padding-left: 0px !important;
+}
+
+.filtr-area{
+	background: #fff;
+	padding: 0;
+}
+
+.filtr-area input{
+	background: #EEEEEE;
+}
+
+.filtr-left button{
+	text-transform: uppercase;
+}
+
+.filtr-left {
+    float: left;
+    width: 100%;
+}
+
+.filtr-left input {
+    margin-left: 0;
+    width: 62%;
+    height: 40px;
+    border-radius: 40px;
+    float: left;
+}
+
+.filtr-left button{
+	width: 35%;
+	border-radius: 50px;
+	height: 40px;
+	float: right;
+}
+
+.icon-panel span {
+    width: 96px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    display: block;
+    font-size: 19px;
+}
+
+
+.pokeball-active-area, .pokeball-no-active-area {
+    margin: 0px !important;
+    padding: 10px !important;
+}
+
+.pokeball-active-area img, .pokeball-no-active-area img{
+	width: 100px !important;
+	height: 100px !important;
+}
+
+
+
+}
